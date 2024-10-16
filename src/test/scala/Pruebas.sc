@@ -19,7 +19,7 @@ matchByElement(3, 5)
 matchsByElements(5)
 possibleMatchings(2)
 possibleMatchings(3)
-possibleMatchings(5)
+possibleMatchings(5).length
 matchings(2)
 matchings(3)
 matchings(4)
